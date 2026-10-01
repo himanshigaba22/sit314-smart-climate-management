@@ -1,0 +1,7 @@
+node_modules/
+aws_certs/
+*.log
+.env
+*.pem
+*.key
+*.zip
